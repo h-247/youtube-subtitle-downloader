@@ -1,0 +1,4 @@
+yt-dlp>=2026.8.19,<2027
+requests>=2.32,<3
+customtkinter>=5.2,<6
+pystray>=0.19,<1

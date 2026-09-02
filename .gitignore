@@ -1,0 +1,14 @@
+cookies.json
+*.cookies.json
+*.cookies.txt
+output/
+downloads/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.part
+.coverage
+htmlcov/
+build/
+dist/
